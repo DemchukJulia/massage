@@ -1,0 +1,143 @@
+#__next{
+    height: 0;
+  }
+  html,
+  body {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    width: 100%;
+    height:100%;
+    background-color: #FFDFD2;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+  }
+  .background2{
+    background-image: url(../images/cont_back.svg);
+    position: absolute;
+    width: 100rem;
+    height: 36.5rem;
+    left: 0px;
+    top: 3rem;
+    background-repeat: no-repeat;
+  }
+  .ground{
+    background-image: url(../images/ground.svg);
+    position: absolute;
+    width: 100rem;
+    height: 36.5rem;
+    left: 0px;
+    top: 11rem;
+    background-repeat: no-repeat;
+  }
+.contacts{
+  position: relative;
+  width: 800px;
+  height: 500px;
+  left: 340px;
+  top: 150px;
+  align-content: center;
+  transform: scale(0.7);
+}
+.line2{
+    position: absolute;
+    width: 380px;
+    height: 0px;
+    left: 300px;
+    top: 200px;
+    align-self:center;
+
+  border-bottom: 3px solid #381404;
+  }
+.phone{
+  position: absolute;
+  font-weight: bold;
+  width: 386px;
+  height: 56px;
+  left: 330px;
+  top: 100px;
+
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-size: 40px;
+  align-items: center;
+
+  color: #381404;
+}
+.location{
+  position: absolute;
+  font-weight: bold;
+width: 206px;
+height: 70px;
+left: 290px;
+top: 257px;
+
+font-family: 'Roboto', sans-serif;
+font-size: 26px;
+align-items: center;
+
+color: #381404;
+}
+.facebook{
+  position: absolute;
+  font-weight: bold;
+  width: 217px;
+  height: 35px;
+  left: 588px;
+  top: 287px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 26px;
+
+  align-items: center;
+
+  color: #381404;
+}
+.phone_pic{
+  background-image: url(../images/phone.svg);
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    left: 440px;
+    top: 50px;
+    background-repeat: no-repeat;
+}
+.location_pic{
+  background-image: url(../images/location.svg);
+    position: absolute;
+    width: 59px;
+  height: 64px;
+  left: 220px;
+  top: 278px;
+    background-repeat: no-repeat;
+}
+.facebook_pic{
+  background-image: url(../images/facebook.svg);
+    position: absolute;
+    width: 82px;
+    height: 61px;
+    left: 500px;
+    top: 286px;
+    background-repeat: no-repeat;
+}
+.loc1{
+  background-image: url(../images/333.jpg);
+    position: absolute;
+    width: 1300px;
+    height: 870px;
+    left: -850px;
+    top: -200px;
+    background-repeat: no-repeat;
+    border-radius: 186px;
+    transform: scale(0.6);
+}
+.loc2{
+  background-image: url(../images/111.jpg);
+    position: absolute;
+    width: 587px;
+    height: 825px;
+    left: 820px;
+    top: -100px;
+    background-repeat: no-repeat;
+    border-radius: 66px;
+}
