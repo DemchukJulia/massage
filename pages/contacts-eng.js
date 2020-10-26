@@ -8,6 +8,7 @@ export default function Contacts() {
     <>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap" rel="stylesheet"/>
     <meta charSet="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>|Контакты|</title>
     <div className="ground">
     <Navbar3 />

@@ -28,8 +28,8 @@ atjaunojošs efekts.</p>
     </div>
 
     <div className="button_bar">
-    <a href={'/contacts-lv'}><button className="button1"><b className="b1">Sazināties</b></button></a>
-    <a href={'/about-lv'}><button className="button2"><b className="b2">
+    <a href={'/contacts'}><button className="button1"><b className="b1">Sazināties</b></button></a>
+    <a href={'/about'}><button className="button2"><b className="b2">
 Uzzināt vairāk</b></button></a>
       </div>
     

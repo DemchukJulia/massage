@@ -69,3 +69,19 @@
   transform: scale(1.2);
   box-shadow: 0px 2px 0px 2px #B19A91;
 }
+
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+
+  .menu{
+    left: 1rem;
+  }
+  .languages a{
+    left: 1rem;
+    top: -7rem;
+    transform: scale(0.6);
+  }
+}
