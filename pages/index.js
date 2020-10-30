@@ -11,9 +11,11 @@ export default function Home() {
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto&display=swap" rel="stylesheet"/>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,136&display=swap" rel="stylesheet"></link>
     <title>|Sākumlapa|</title>
+
     <meta name="keywords" content="masāžs, relaksācija, sevis kopšana, aprūpe, masāžs Rīga, masāžs Latvija" />
     <meta charSet="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
     <div className="information">
         <div className="name"><h1>Julija Demčuk</h1></div>
             <div className="line"></div>

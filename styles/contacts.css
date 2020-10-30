@@ -151,18 +151,18 @@ color: #381404;
     transform: scale(0.3);
   align-items: left;
     text-align: left;
-    left: -130px;
-    top: 100px;
+    left: -250px;
+    top: 150px;
   }
   .loc1{
-    transform: scale(0.4);
-    left: -660px;
-    top: -300px;
+    transform: scale(0.6);
+    left: -160px;
+    top: -700px;
   }
   .loc2{
-    transform: scale(0.6);
-    left: 45rem;
-    top: -200px;
+    transform: scale(0.7);
+    left: 190px;
+    top: 280px;
   }
 
 }

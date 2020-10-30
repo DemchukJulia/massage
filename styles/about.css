@@ -1386,9 +1386,9 @@ color: #000000;
   
   .info_box
   {
-    transform: scale(0.5);
-    left: -33rem;
-    top: -125rem;
+    transform: scale(0.3);
+    left: -37rem;
+    top: -172rem;
   }
   .rectangle1,
   .rectangle3,
@@ -1399,49 +1399,119 @@ color: #000000;
   {
     left: 13rem;
   }
-  .img0,
-  .img1,
-  .img2,
-  .img3,
-  .img4,
-  .img5,
-  .img6,
-  .img7,
-  .img8,
-  .img9,
-  .img10,
-  .img11,
-  .img12,
+  .img0{
+    transform: scale(0.12);
+    left: -25em;
+    top: 50rem;
+  }
+  .img1{
+    transform: scale(0.10);
+    left: -25em;
+    top: -35.5rem;
+  }
+  .img2{
+    transform: scale(0.10);
+    left: -10em;
+    top: -22.5rem;
+  }
+  .img3{
+    transform: scale(0.10);
+    left: -25em;
+    top: -14.5rem;
+  }
+  .img4{
+    transform: scale(0.10);
+    left: -10em;
+    top: -1.5rem;
+  }
+  .img5{
+    transform: scale(0.10);
+    left: -25em;
+    top: 6rem;
+  }
+  .img6{
+    transform: scale(0.13);
+    left: -15em;
+    top: 22rem;
+  }
+  .img7{
+    transform: scale(0.10);
+    left: -25em;
+    top: 27rem;
+  }
+  .img8{
+    
+  }
+  .img9{
+    transform: scale(0.11);
+    left: -15em;
+    top: 40.8rem;
+  }
+  .img10{
+    transform: scale(0.10);
+    left: -28em;
+    top: 70.5rem;
+  }
+  .img11{
+    transform: scale(0.12);
+    left: -15em;
+    top: 63rem;
+  }
+  .img12{
+    transform: scale(0.10);
+    left: -17em;
+    top: 81.5rem;
+  }
   .img13{
-    opacity: 0;
+    transform: scale(0.12);
+    left: -28em;
+    top: 91.5rem;
   }
   p{
     text-align: left;
     font-size: 35px;
     right: -30px;
   }
+  .cena1{
+    left: 60rem;
+  }
   .cena2{
     left: 60rem;
   top: 57rem;
+  }
+  .cena3{
+    left: 50rem;
   }
   .cena4{
     left: 70rem;
   top: 126rem;
   }
+  .cena5{
+    left: 70rem;
+  }
   .cena6{
     left: 70rem;
   top: 197rem;
+  }
+  .cena7{
+    left: 60rem;
   }
   .cena8{
     left: 40rem;
     top: 267rem;
   }
+  .cena9{
+    left: 60rem;
+  }
   .cena10{
-    left: 70rem;
+    left: 60rem;
     bottom: 142rem;
   }
+  .cena11{
+    left: 60rem;
+  }
   .cena12{
-    left: 70rem;
+    left: 60rem;
     bottom: 72rem;
   }
   .info_2,
@@ -1450,7 +1520,7 @@ color: #000000;
   .info_8,
   .info_10,
   .info_12{
-    left: 39rem;
+    left: 27rem;
   }
   a.idTop{
     transform: scale(0.7);
@@ -1460,4 +1530,13 @@ color: #000000;
     top: -7rem;
     transform: scale(0.6);
   }
+
+.listiki,
+.back6,
+.back_5,
+.back_4,
+.back3{
+  opacity: 0;
+}
   }
+

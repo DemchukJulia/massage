@@ -77,11 +77,16 @@
   }
 
   .menu{
-    left: 1rem;
+    left: 0.1rem;
+    top: -130px;
+
+  }
+  .menu a{
+    margin: 10px;
   }
   .languages a{
-    left: 1rem;
-    top: -7rem;
+    left: -2rem;
+    top: -8rem;
     transform: scale(0.6);
   }
 }

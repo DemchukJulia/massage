@@ -182,27 +182,44 @@ a :hover{
   transform: scale(0.7);
 }
 
-  .name{
-    text-align: left;
-    font-size: 30px;
+  .name h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    color: #381404;
+    margin-left: -150px;
+    top: 0px;
 
+  }
+  .line{
+    top: 80px;
+    left: -150px;
   }
   .galochka{
     top: 120px;
+    left: -140px;
   }
-  .info1 p{
+  .info1{
     text-align: left;
     font-size: 30px;
+    top: 75px;
+    left: -50px;
+
   }
-  .info2 p{
+  .info2{
     text-align: left;
     font-size: 30px;
-    width: 500px;
+    width: 570px;
+    top: 10rem;
+    left: -150px;
   }
-  .button1,
+  .button1{
+    top: -2rem;
+    left: -150px;
+  }
   .button2{
-    top: 1rem;
+    top: -2rem;
+    left: 90px;
   }
- 
 
 }
