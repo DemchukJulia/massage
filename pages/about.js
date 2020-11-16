@@ -98,7 +98,7 @@ kas uzklāts uz ādas pēc matu augšanu.
 <div className="lenta13"></div>
 </div>
 
-<div className="info_12"><p></p>Sporta masāžs</div>
+<div className="info_12"><p></p>Sporta masāža</div>
 
 <div className="rectangle11">
    
@@ -111,7 +111,7 @@ rādītāji īstermiņā un stimulē asinsriti.
 <div className="lenta12"></div>
 </div>
 
-                <div className="info_11"><p></p>Pēdu masāžs</div>
+                <div className="info_11"><p></p>Pēdu masāža</div>
 
 <div className="rectangle10">
    
@@ -125,7 +125,7 @@ notiek trauksme un nemiers.
 </div>
 
 
-                <div className="info_10"><p></p>Limfodrenāžas masāžs</div>
+                <div className="info_10"><p></p>Limfodrenāžas masāža</div>
 
 <div className="rectangle9">
    
@@ -137,7 +137,7 @@ pastiprināt, organisma limfātiskās sistēmas.
 <div className="lenta10"></div>
 </div>
 
-                <div className="info_9"><p></p>Anticelulīta masāžs</div>
+                <div className="info_9"><p></p>Anticelulīta masāža</div>
 
                 <div className="rectangle8">
                    
@@ -160,7 +160,7 @@ turklāt, un atveseļojošs efekts.
    
        <div className="lenta8"></div>
                </div>
-               <div className="info_7"><p></p>Aroma masāžs</div>
+               <div className="info_7"><p></p>Aroma masāža</div>
                 <div className="rectangle6">
                    
                    <div className="info_7_1"><p>Mehāniskā iedarbība uz ķermeņa virsmu, izmantojot 
@@ -171,7 +171,7 @@ estētiskās vai profilakses nolūkā, piemērojot
    
        <div className="lenta7"></div>
                </div>
-               <div className="info_6"><p>Šokolādes masāžs</p> </div>
+               <div className="info_6"><p>Šokolādes masāža</p> </div>
                 <div className="rectangle5">
                    
                    <div className="info_6_1"><p>Apvienojot masāžas paņēmienus, aromterapijas, maskas un citus 
@@ -192,7 +192,7 @@ līdzeklis veselības uzlabošanai un ādas attīrīšanai. Produkts sniedz
    
        <div className="lenta5"></div>
                </div>
-               <div className="info_4"><p>Apkakles zonas masāžs</p> </div>
+               <div className="info_4"><p>Apkakles zonas masāža</p> </div>
                 <div className="rectangle3">
                    
                    <div className="info_4_1"><p>Profilaktiska procedūra, pateicoties kurai, ievērojami uzlabojas 
@@ -202,7 +202,7 @@ pārpūle plecēs, lāpstiņas un kaklā.
    
        <div className="lenta4"></div>
                </div>
-               <div className="info_3"><p>Muguras masāžs</p> </div>
+               <div className="info_3"><p>Muguras masāža</p> </div>
                 <div className="rectangle2">
                    
                    <div className="info_3_1"><p>Terapija var dot organismam ne tikai atveseļošanu,

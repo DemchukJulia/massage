@@ -18,7 +18,7 @@ body {
         background-image: url(../images/Ellipse1.svg);
         position: absolute;
         width: 851px;
-        height: 395px;
+        height: 450px;
         left: 250px;
         top: 470px;
         background-repeat: no-repeat;
@@ -35,7 +35,7 @@ body {
     .Vector{
       background-image: url(../images/Vector.svg);
       position: absolute;
-      width: 1962px;
+      width: 2062px;
       height: 1169.5px;
       left: -100px;
       top: -320px;
@@ -53,10 +53,10 @@ body {
       background-image: url(../images/Vector2_1.png);
       position: absolute;
       background-repeat: no-repeat;
-      width: 1170px;
+      width: 1370px;
       height: 1000px;
       left: 540px;
-      top: -450px;
+      top: -390px;
       transform: scale(0.8);
     filter: drop-shadow( -50px 36px 0px #E6B9A7 );
     

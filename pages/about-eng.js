@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Navbar3 from '../components/Navbar3'
-import Language3 from '../components/Language3'
+import Language2 from '../components/Language2'
 
 
 export default function About() {
@@ -39,7 +39,7 @@ export default function About() {
                         <div className="back_5"></div>                    
                 </div>
                 <Navbar3 />
-                <Language3 />
+                <Language2 />
                 
         <div className="listiki">
                 <div className="list1"></div>

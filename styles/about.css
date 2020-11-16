@@ -20,7 +20,7 @@ body {
 .back1{
   background-image: url(../images/back1.svg);
   position: absolute;
-  width: 1564px;
+  width: 1964px;
   height: 968.89px;
   
   left: -32px;
@@ -31,9 +31,9 @@ body {
   background-image: url(../images/back2.svg);
   position: absolute;
   width: 1940.9px;
-  height: 940px;
+  height: 1070px;
   left: -7.9px;
-  top: 60rem;
+  top: 45rem;
   background-repeat: no-repeat;
 }
 .back3{background-image: url(../images/back3.svg);
@@ -41,30 +41,30 @@ body {
   width: 1941.91px;
   height: 1638px;
   left: -9.91px;
-  top: 137rem;
+  top: 130rem;
   background-repeat: no-repeat;
 }
 .back4{background-image: url(../images/back4.svg);
   position: absolute;
   width: 1955.46px;
-  height: 943.5px;
+  height: 993.5px;
   left: -32px;
-  top: 280rem;
+  top: 200rem;
   background-repeat: no-repeat;
 }
 .back5{
   background-image: url(../images/back5.svg);
   position: absolute;
-  width: 1937.89px;
-  height: 1284px;
-  left: -11.92px;
-  top: 330rem;
+  width: 2726.84px;
+  height: 785px;
+  left: -5.89px;
+  top: 350rem;
   background-repeat: no-repeat;
 }
 .back6{
   background-image: url(../images/back6.svg);
   position: absolute;
-  width: 1926.84px;
+  width: 2726.84px;
   height: 785px;
   left: -5.89px;
   top: 350rem;
@@ -73,10 +73,10 @@ body {
 .back_1{
   background-image: url(../images/back_1.svg);
   position: absolute;
-  width: 1564px;
+  width: 1764px;
   height: 968.89px;
   
-  left: -32px;
+  left: -142px;
   top: -11.5rem;
   background-repeat: no-repeat;
 }
