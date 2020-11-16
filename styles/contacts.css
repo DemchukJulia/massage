@@ -16,18 +16,18 @@
   .background2{
     background-image: url(../images/cont_back.svg);
     position: absolute;
-    width: 100rem;
-    height: 36.5rem;
-    left: 0px;
+    width: 150rem;
+    height: 50.5rem;
+    left: -20px;
     top: 3rem;
     background-repeat: no-repeat;
   }
   .ground{
     background-image: url(../images/ground.svg);
     position: absolute;
-    width: 100rem;
-    height: 36.5rem;
-    left: 0px;
+    width: 150rem;
+    height: 50.5rem;
+    left: -29px;
     top: 11rem;
     background-repeat: no-repeat;
   }
