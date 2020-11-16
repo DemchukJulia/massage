@@ -149,7 +149,7 @@ nogulumi.
    
        <div className="lenta9"></div>
                </div>
-               <div className="info_8"><p></p>Medus masāžs</div>
+               <div className="info_8"><p></p>Mēdus masāža</div>
                 <div className="rectangle7">
                    
                    <div className="info_8_1"><p>Medus ir lielisks ādas kopšanas līdzeklis, un sniegt 
@@ -223,7 +223,7 @@ pārpūle plecēs, lāpstiņas un kaklā.
     <div className="lenta2"></div>
                 </div>
     
-                <div className="info_1"><p>Klasiskais masažs</p> </div>
+                <div className="info_1"><p>Klasiskā masāža</p> </div>
                 
                     <div className="rectangle">
                     
