@@ -89,11 +89,7 @@ export default function About() {
 
 <div className="rectangle12">
    
-   <div className="info_13_1"><p>Vaksācijas sauc par vaska depilāciju. 
-Metodes būtība ir tajā, lai noņemtu liekās 
-matiņu uz ķermeņa tiek izmantota, kausētais vasks, 
-kas uzklāts uz ādas pēc matu augšanu. 
-</p></div>
+   <div className="info_13_1"><p>Matiņu likvidēšana ar vaska metodi no visām nepieciešamajām ķermeņa zonām. </p></div>
 
 <div className="lenta13"></div>
 </div>
@@ -102,10 +98,9 @@ kas uzklāts uz ādas pēc matu augšanu.
 
 <div className="rectangle11">
    
-   <div className="info_12_1"><p>Mehāniskais komplekss ar iedarbību uz nervu, 
-       muskuļi, saites un sportista cīpslas. Šāds
-masāžs samazina risku iegūt traumu, uzlabo sporta
-rādītāji īstermiņā un stimulē asinsriti.
+   <div className="info_12_1"><p>Spēcīgas iedarbības masāža uz konkrētām ķermeņa zonām, 
+       kurām nepieciešama īpaša iedarbība. Sporta masāža iedarbojas uz nervu, muskuļu saišu, 
+       cīpslu izmasēšnu. Šāda masāža samazina risku iegūt traumas, kā arī uzlabo sporta rezultatus. 
 </p></div>
 
 <div className="lenta12"></div>
@@ -115,10 +110,9 @@ rādītāji īstermiņā un stimulē asinsriti.
 
 <div className="rectangle10">
    
-   <div className="info_11_1"><p>Normalizējas asinsrite, paaugstinās
-muskuļu tonuss, normalizējas nervu sistēmas stāvokli, 
-uzlabo garastāvokli, atmiņu, stabilizējies miegs, 
-notiek trauksme un nemiers.
+   <div className="info_11_1"><p>Normalizējas asinsrite, paaugstinās muskuļu tonuss, 
+       normalizējas nervu sistēmas stāvoklis. Pēdu masāža uzlabo garastāvokli, atmiņu, 
+       stabilizē miegu, noņem  trauksmi un nemieru.
 </p></div>
 
 <div className="lenta11"></div>
@@ -129,9 +123,9 @@ notiek trauksme un nemiers.
 
 <div className="rectangle9">
    
-   <div className="info_10_1"><p>Fiziska iedarbība uz noteiktām ķermeņa līnijas 
-       limfas plūsmu, lai normalizēt un 
-pastiprināt, organisma limfātiskās sistēmas.
+   <div className="info_10_1"><p>Masāža tiek veikta pa noteiktām ķermeņa līnijam pa  limfas plūsmu, 
+       lai normalizētu un pastiprinātu, organisma limfātiskās sistēmas. Uzlabo vielmaiņas procesus,
+        kas palīdz normalizēt ķermeņa svaru.
 </p></div>
 
 <div className="lenta10"></div>
@@ -141,10 +135,9 @@ pastiprināt, organisma limfātiskās sistēmas.
 
                 <div className="rectangle8">
                    
-                   <div className="info_9_1"><p>Mehāniskais metods iedarbībai uz ādu, skarto celulītu.
- Tā darbība vērsta pastiprinot asinsriti un limfas plūsmu
- uz celulīta skartajās zonās, uztūkuma noņemšana un samazinātu tauku 
-nogulumi.
+                   <div className="info_9_1"><p>Dziļa mehāniska iedarbība uz ādu un tās skarto celulītu.
+                        Anticelulīta masāža uzlabo asinsriti un limfas plūsmu uz celulīta skartajās zonām. 
+                        Noņem un samazina tūsku, uzlabo ādas stavoki un veselību.
     </p></div>
    
        <div className="lenta9"></div>
@@ -152,10 +145,9 @@ nogulumi.
                <div className="info_8"><p></p>Mēdus masāža</div>
                 <div className="rectangle7">
                    
-                   <div className="info_8_1"><p>Medus ir lielisks ādas kopšanas līdzeklis, un sniegt 
-kosmetoloģisko efektu. Tādēļ viņš ir viens no 
-populārākajiem kosmētiskās procedūras, kas,
-turklāt, un atveseļojošs efekts.
+                   <div className="info_8_1"><p>Medus ir lielisks ādas kopšanas līdzeklis, kas sniedz ādai
+                        kosmetoloģisko efektu. Medus masāža ir viena no populārākajam kosmētiskajām procedūram, 
+                        turklāt tai ir  ādu  atveseļojošs efekts.
     </p></div>
    
        <div className="lenta8"></div>
@@ -163,10 +155,8 @@ turklāt, un atveseļojošs efekts.
                <div className="info_7"><p></p>Aroma masāža</div>
                 <div className="rectangle6">
                    
-                   <div className="info_7_1"><p>Mehāniskā iedarbība uz ķermeņa virsmu, izmantojot 
-kompleksa paņēmienus, ar veselību veicinošām,
-estētiskās vai profilakses nolūkā, piemērojot 
-ēteriskās eļļas vai ēterisko eļļu maisījumi.
+                   <div className="info_7_1"><p>Masāža tiek veikta ar ēteriskajām eļļām. Ēteriskās eļļas katram klientam tiek 
+                       piemeklētas individuali. Masažas laikā, tiek sniegta relaksejoša, dziļa  iedarbība uz visām  muskuļu grupam.
     </p></div>
    
        <div className="lenta7"></div>
@@ -174,9 +164,9 @@ estētiskās vai profilakses nolūkā, piemērojot
                <div className="info_6"><p>Šokolādes masāža</p> </div>
                 <div className="rectangle5">
                    
-                   <div className="info_6_1"><p>Apvienojot masāžas paņēmienus, aromterapijas, maskas un citus 
-                       kosmētikas procedūras, kuru mērķis ir stimulēt vielmaiņas procesus cilvēka organismā 
-                       un normalizē fizisko stāvokli.
+                   <div className="info_6_1"><p>Šokolāde ir ne tikai populārs kārums, bet arī efektīgs līdzeklis ādas veselības 
+                       stavokļa uzlabošanai. Ekskluzīvā šokolādes masāža – maska apgadā ādu ar vitamīniem, minerāliem un bioaktīvām 
+                       vielām. Uzlabo ādas elastību un darbojas kā antioksidants pret ādas novecošanās procesiem.
     </p></div>
    
        <div className="lenta6"></div>
@@ -195,9 +185,8 @@ līdzeklis veselības uzlabošanai un ādas attīrīšanai. Produkts sniedz
                <div className="info_4"><p>Apkakles zonas masāža</p> </div>
                 <div className="rectangle3">
                    
-                   <div className="info_4_1"><p>Profilaktiska procedūra, pateicoties kurai, ievērojami uzlabojas 
-smadzeņu asinsriti, samazina muskuļu 
-pārpūle plecēs, lāpstiņas un kaklā.
+                   <div className="info_4_1"><p>Procedūra, pateicoties kurai, ievērojami uzlabojas asinsrite 
+                       trapeces un galvas zonā. Samazina muskuļu pārpūli – savilkumu plecu, lāpstiņu un kakla zonā.
     </p></div>
    
        <div className="lenta4"></div>
@@ -205,21 +194,17 @@ pārpūle plecēs, lāpstiņas un kaklā.
                <div className="info_3"><p>Muguras masāža</p> </div>
                 <div className="rectangle2">
                    
-                   <div className="info_3_1"><p>Terapija var dot organismam ne tikai atveseļošanu,
- bet arī atpūtu.
- Uzlabo asinsriti,
- stāvoklis muskuļu palielināšanos,
- darbu CNS, kā arī atbrīvos no sāpēm.
+                   <div className="info_3_1"><p>Šī īpašā terapija iedarbojas uz  organismu  
+                       uzlabojot asinsriti un relaksē savilkotos muskuļus – atbrīvojot tos no sāpēm. 
+                       Uzlabo muguras visparējo stāvokli.
     </p></div>
    
        <div className="lenta3"></div>
                </div>
-               <div className="info_2"><p>Relaksējošais masāžs</p> </div>
+               <div className="info_2"><p>Relaksējošā masāža</p> </div>
                 <div className="rectangle1">
-                <div className="info_2_1"><p>Relaksējošais masāžs noņems nogurumu un stresu 
- muskuļos, atbrīvos no stresa, depresijas un galvassāpes, 
- palielinās organisma aizsargspējas un sagādās patīkamas 
- taustes sajūtas.</p></div>
+                <div className="info_2_1"><p>Relaksējošā masāža noņems nogurumu un stresu muskuļos, atbrīvos no stresa, 
+                    depresijas un galvassāpēm. Palielinās organisma aizsargspējas un sagādās patīkamas relaksējošas sajūtas.</p></div>
     <div className="lenta2"></div>
                 </div>
     
@@ -227,11 +212,9 @@ pārpūle plecēs, lāpstiņas un kaklā.
                 
                     <div className="rectangle">
                     
-                    <div className="info_1_1"><p>Klasiskais masāžs tiek izmantots, lai ārstēt un
- brīdināt par daudzām slimībām. 
- Šī tehnika ir spējīga atjaunot stāvokli 
- locītavu un saišu, ka arī paātrinot reģenerāciju uz
- bojāto audu.</p></div>
+                    <div className="info_1_1"><p>Klasiskā masāža tiek izmantota, lai ārstētu un iedarbotos profilaktiski pret 
+                        daudzām slimībām. Šī masāžas tehnika  atjauno locītavu un saišu stavokli, kā arī paātrina bojāto 
+                        audu reģenerāciju  - atjaunošanos.</p></div>
     
         <div className="lenta1"></div>
         
